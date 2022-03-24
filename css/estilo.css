@@ -1,0 +1,16 @@
+img { width:  100px;
+    height: 100px;}
+body {
+    background-color: darkgray;
+}
+p{
+    font-family:cursive;
+    color: darkorchid;
+    
+    width: 400px;
+
+}
+h1 {
+    font-family: fantasy;
+    color: chartreuse;
+}
